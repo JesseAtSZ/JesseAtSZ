@@ -9,6 +9,7 @@
 <table><tr><td valign="top" width="50%">
 
 <br/>
+  
 - ***I’m currently working in Shenzhen*** <!--Institute of Computing Sciences**-->  
   
 
