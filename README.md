@@ -3,8 +3,7 @@
 ![header](https://github.com/JesseAtSZ/JesseAtSZ/blob/main/icon/header.png)
 
 ### Glad to see you here!  
-I'm Jesse, a full-time database developer, working since 2018. I specialize in building middleware for database. I love designing systems that are light yet powerful, distributed yet synchronized. I also frequently blog about the world behind the screen which involves system designs, databases, middleware, servers, optimisation and also promising technologies.  
-  
+I'm Jesse, a full-time database developer, specializing in building middleware for database. With great enthusiasm and pursuit of designing systems that are light yet powerful, distributed yet synchronized, I keep on blogging about the world behind the screen, which involves system designs, databases, middleware, servers, optimisation as well as promising technologies.  
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -15,10 +14,10 @@ I'm Jesse, a full-time database developer, working since 2018. I specialize in b
 - **I’m currently learning Rust and Flink**  
   
 
-- **Ask me about anything related to database and related technologies**  
+- **Ask me about anything about database and related technologies**  
   
   
-- **I love piano, fitness, traveling, Overwatch, classic music and enjoying delicious food**  
+- **I love fitness, traveling, Overwatch, piano, classic music and enjoying delicious food**  
 
 
 - **I love connecting with different people so if you want to say hi, I'll be happy to meet you more!**  
