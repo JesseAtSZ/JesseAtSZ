@@ -14,7 +14,7 @@ I'm Jesse, a full-time database developer, specializing in building middleware f
 - **I’m currently learning Rust and Flink**  
   
 
-- **Ask me about anything about database and related technologies**  
+- **Ask me anything about database and related technologies**  
   
   
 - **I love fitness, traveling, Overwatch, piano, classic music and enjoying delicious food**  
