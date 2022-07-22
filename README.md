@@ -14,13 +14,13 @@
 - ***I’m currently learning Rust and Flink***  
   
 
-- **Ask me anything about database and related technologies**  
+- ***Ask me anything about database and related technologies***  
   
   
-- **I love fitness, traveling, Overwatch, piano, classic music and enjoying delicious food**  
+- ***I love fitness, traveling, Overwatch, piano, classic music and enjoying delicious food***  
 
 
-- **I love connecting with different people so if you want to say hi, I'll be happy to meet you more!**  
+- ***I love connecting with different people so if you want to say hi, I'll be happy to meet you more!***  
   
 
 </td><td valign="top" width="50%">
