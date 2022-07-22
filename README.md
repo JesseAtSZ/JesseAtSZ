@@ -75,7 +75,7 @@ I'm Jesse, a full-time database developer, working since 2018. I specialize in b
   
 
 <div align="center">
-<img src=https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/reward_qrcode.png" align="center" height="200" width="200" />
+<img src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/reward_qrcode.png" align="center" height="200" width="200" />
 </div>  
 
 <br />
