@@ -57,19 +57,9 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JesseAtSZ&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseAtSZ&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-<div>  
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=35264598" target="_blank" align="center">
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35264598&image_size=auto&color_scheme=light" width="770" height="auto"  alt="Dashboard stats of @JesseAtSZ">
+</a>
 
 ## Donate  
 **Your sponsorship enables me to spend more time pursuing my passion and less time pursuing keeping a roof over my head.**
